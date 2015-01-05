@@ -1,0 +1,14 @@
+{
+    "name": "guiwoda/glip",
+    "description": "Native PHP access to git.",
+    "authors": [{
+        "name": "Guido Contreras Woda",
+        "email": "guiwoda@gmail.com"
+    }],
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Glip\\": "lib/"
+        }
+    }
+}
